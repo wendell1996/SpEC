@@ -3,6 +3,9 @@ DASFAA 2020 "SpEC: Sparse Embedding-based Community Detection in Attributed Grap
 
 # Dataset source
 + [LINQS](https://linqs.soe.ucsc.edu/data)
+
+- [1] Leskovec, J., Mcauley, J.J.: Learning to discover social circles in ego networks. In: Advances in neural information processing systems. pp. 539–547 (2012)
+
 + [SNAP](http://snap.stanford.edu/data/index.html)
 
 # Environment
