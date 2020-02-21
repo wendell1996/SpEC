@@ -14,7 +14,7 @@ DASFAA 2020 "SpEC: Sparse Embedding-based Community Detection in Attributed Grap
 + Non-overlapping community detection: `/bin/bash example_nonoverlapping.sh`
 
 # Data format
-+ `'adjacency_matrix'`: dense matrix or sparse matrxi
++ `'adjacency_matrix'`: dense matrix or sparse matrix
 + `'labels_all'`: 0/1-dense matrix
 + `'features_all'`: dense matrix or sparse matrix
 + `'feat_dim'`: dimension of features
