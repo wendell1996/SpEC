@@ -2,11 +2,12 @@
 DASFAA 2020 "SpEC: Sparse Embedding-based Community Detection in Attributed Graphs"
 
 # Dataset source
-+ [LINQS](https://linqs.soe.ucsc.edu/data)
++ [LINQS](https://linqs.soe.ucsc.edu/data) [1,2]
++ [SNAP](http://snap.stanford.edu/data/index.html) [3]
 
-- [1] Leskovec, J., Mcauley, J.J.: Learning to discover social circles in ego networks. In: Advances in neural information processing systems. pp. 539–547 (2012)
-
-+ [SNAP](http://snap.stanford.edu/data/index.html)
+[1] Lu, Q., Getoor, L.: Link-based classiﬁcation. In: Proceedings of the 20th International Conference on Machine Learning (ICML-03). pp. 496–503 (2003)
+[2] Sen, P., Namata, G., Bilgic, M., Getoor, L., Galligher, B., Eliassi-Rad, T.: Collective classiﬁcation in network data. AI magazine 29(3), 93–93 (2008)
+[3] Leskovec, J., Mcauley, J.J.: Learning to discover social circles in ego networks. In: Advances in neural information processing systems. pp. 539–547 (2012)
 
 # Environment
 + Python 3.6
