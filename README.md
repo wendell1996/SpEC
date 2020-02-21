@@ -2,8 +2,8 @@
 DASFAA 2020 "SpEC: Sparse Embedding-based Community Detection in Attributed Graphs"
 
 # Dataset source
-+ [LINQS]{https://linqs.soe.ucsc.edu/data}
-+ [SNAP]{http://snap.stanford.edu/data/index.html}
++ [LINQS](https://linqs.soe.ucsc.edu/data)
++ [SNAP](http://snap.stanford.edu/data/index.html)
 
 # Environment
 + Python 3.6
